@@ -1,0 +1,79 @@
+{
+  "en-US": {
+    "success_messages": {
+      "succes_message_theme": "Theme success message en-US"
+    },
+    "error_messages": {
+      "error_message_theme": "Theme error message en-US"
+    },
+    "button": {
+      "continue": "Continue",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "screen_messages": {
+      "change_theme": "Change Theme",
+      "dark_theme": "Dark Theme",
+      "light_theme": "Light Theme",
+      "change_language": "Chnage Language",
+      "english": "English",
+      "hindi": "हिंदी",
+      "login": "Login",
+      "welcome": "Welcome!",
+      "welcome_home": "Welcome To Home",
+      "dont_have_acc": "Don't Have an Account?",
+      "already_have_acc": "Already Have an Account",
+      "signup": "Sign Up",
+      "Email": "Enter Email",
+      "Password": "Enter Password",
+      "name": "Enter Name",
+      "mobile": "Enter Mobile",
+      "Hi": "हा",
+      "En": "En"
+    }
+  },
+  "hi-IN": {
+    "success_messages": {
+      "succes_message_theme": "Theme success message en-UK"
+    },
+    "error_messages": {
+      "error_message_theme": "Theme error message en-UK"
+    },
+    "button": {
+      "continue": "जारी रखना",
+      "login": "लॉग इन करें",
+      "signup": "साइन अप करें"
+    },
+    "screen_messages": {
+      "change_theme": "विषय को परिवर्तित करें",
+      "dark_theme": "डार्क थीम",
+      "light_theme": "लाइट थीम",
+      "change_language": "भाषा बदलें",
+      "english": "English",
+      "hindi": "हिंदी",
+      "login": "लॉग इन करें",
+      "welcome_home": "होम पेज पर आपका स्वागत है",
+      "welcome": "आपका स्वागत है!",
+      "dont_have_acc": "कोई खाता नहीं है?",
+      "already_have_acc": "पहले से एक खाता मौजूद है",
+      "signup": "साइन अप करें",
+      "Email": "ईमेल दर्ज करें",
+      "Password": "पास वर्ड दर्ज करें",
+      "name": "नाम दर्ज करें",
+      "mobile": "मोबाइल नंबर दर्ज करें",
+      "Hi": "हा",
+      "En": "En"
+    }
+  },
+  "en-UK": {
+    "success_messages": {
+      "succes_message_theme": "Theme success message en-UK"
+    },
+    "error_messages": {
+      "error_message_theme": "Theme error message en-UK"
+    },
+    "screen_messages": {
+      "screen_message_theme": "Theme screen message en-UK"
+    }
+  }
+}
